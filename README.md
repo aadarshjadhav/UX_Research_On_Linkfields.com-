@@ -1,4 +1,4 @@
-# UX_Research_On_Linkfields.com-
+# UX_Research_On_Linkfields.com
 
 **Purpose of the project** is to conduct a UX Research on the website"Linkfields.com" to identify the issues users are facing and giving recommendations for changes with UI prototypes 
 
